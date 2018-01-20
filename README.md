@@ -1,2 +1,2 @@
 # Simple
-Small Code to automate tasks
+Small Codes to automate tasks
